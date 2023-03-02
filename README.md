@@ -1,7 +1,7 @@
-- 👋 Prazer, me chamo @emilly-tavares
+- 👋 Prazer, me chamo @emilly-tavares!
 - 💻 Sou programadora de jogos digitais e desenvolvedora front-end.
-- 🌐 Trabalho com tecnologias como React, Node e Next.js
-- 🌱 Possuo experiência com linguagens de programação como C# e JavaScript.
+- 🌐 Trabalho com tecnologias como React, Node e Next.js.
+- 🌱 Possuo experiência nas linguagens C# e JavaScript.
 - 📫 Meu e-mail para contato: emillybeatriz.bt@hotmail.com
 
 <!---
