@@ -1,4 +1,7 @@
 - 👋 Prazer, me chamo @emilly-tavares!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 - 💻 Sou programadora de jogos digitais e desenvolvedora front-end.
 - 🌐 Trabalho com tecnologias como React, Node e Next.js.
 - 🌱 Possuo experiência nas linguagens C# e JavaScript.
