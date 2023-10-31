@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Olá!! Me chamo Emilly Tavares</h1>
-<h3 align="center">Sou desenvolvedora front-end e de jogos digitais</h3>
+<h3 align="center">Sou desenvolvedora de sites e de jogos digitais</h3>
 
 
 <h3 align="center">Linguagens e frameworks que trabalho:</h3>
