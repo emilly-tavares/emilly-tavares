@@ -4,7 +4,6 @@
 <h3 align="center">Sou desenvolvedora de sites e de jogos digitais</h3>
 
 
-<h3 align="center">Linguagens e frameworks que trabalho:</h3>
 
 
 
